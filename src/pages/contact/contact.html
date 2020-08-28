@@ -1,0 +1,19 @@
+<ion-header>
+  <ion-navbar>
+    <ion-title>
+      <img src="../../assets/imgs/12.png" />
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+
+<ion-content>
+  <h1>Kent Meydanı Otopark Bilgileri</h1>
+  <div ng-controller="kodist">
+    <ion-item ng-repeat="i in item">
+     <td>{{i.kapasite}}</td>
+     <td>{{i.dolu}}</td>
+     <td>{{i.boş}}</td>
+    </ion-item>
+   </div>
+  <button (click)='nasilGiderim()' ion-button round padding full class="bttn">Nasıl Giderim?</button>
+</ion-content>

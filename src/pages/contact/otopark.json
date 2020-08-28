@@ -1,0 +1,16 @@
+{
+    "Version": "1.0",
+    "StatusCode": 200,
+    "Message": "",
+    "MessageType": 1,
+    "Result": [
+        {
+            "OtoparkAdi": "Kent Meydanı Kapalı Otoparkı",
+            "PoiId": 21325,
+            "Kapasite": 320,
+            "Dolu": 273,
+            "Bos": 47
+        }
+    ],
+    "Status": true
+}
