@@ -1,1 +1,1 @@
-"# OtoparkApp - Cross Platform frameworklerinden biri olan Ionic'in  Ionic-3 versiyonu ile geliütirilmiü mobil tabanlç otopark uygulamasç" 
+"# OtoparkApp - Cross Platform frameworklerinden biri olan Ionic'in  Ionic-3 versiyonu ile geli≈ütirilmi≈ü mobil tabanlƒ± otopark uygulamasƒ±" 
